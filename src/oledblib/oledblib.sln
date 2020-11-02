@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oledblib", "oledblib.vcxproj", "{5985E79C-42A5-4DC4-8B67-86B228B9A187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		UDebug|x86 = UDebug|x86
+		URelease|x86 = URelease|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5985E79C-42A5-4DC4-8B67-86B228B9A187}.Debug|x86.ActiveCfg = Debug|Win32
+		{5985E79C-42A5-4DC4-8B67-86B228B9A187}.Debug|x86.Build.0 = Debug|Win32
+		{5985E79C-42A5-4DC4-8B67-86B228B9A187}.Release|x86.ActiveCfg = Release|Win32
+		{5985E79C-42A5-4DC4-8B67-86B228B9A187}.Release|x86.Build.0 = Release|Win32
+		{5985E79C-42A5-4DC4-8B67-86B228B9A187}.UDebug|x86.ActiveCfg = UDebug|Win32
+		{5985E79C-42A5-4DC4-8B67-86B228B9A187}.UDebug|x86.Build.0 = UDebug|Win32
+		{5985E79C-42A5-4DC4-8B67-86B228B9A187}.URelease|x86.ActiveCfg = URelease|Win32
+		{5985E79C-42A5-4DC4-8B67-86B228B9A187}.URelease|x86.Build.0 = URelease|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
